@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bitluck/tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/Bitluck/tic-tac-toe#readme"
+  "homepage": "https://github.com/Bitluck/tic-tac-toe#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
