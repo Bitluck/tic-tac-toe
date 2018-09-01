@@ -4,7 +4,7 @@
 [![Build Status][travis-badge]][travis-url]
 [![GitHub repo size in bytes][reposize-url]][repo-url]
 
-Tic-tac-toe game on node.js
+Tic-tac-toe game on node.js with CLI
 
 [trello-badge]: https://img.shields.io/badge/style-board-blue.svg?label=Trello&logo=trello&style=flat
 [trello-board-url]: https://trello.com/b/KGmjqC6V/tic-tac-toe
